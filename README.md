@@ -1,2 +1,3 @@
 # Meta-Maze-Reinforcement-Learning
-Se trata de todos los archivos programados y tomados para el trabajo de la asignatura de Aprendizaje por Refuerzo en la Universidad Carlos 3
+En este repositorio se encuentran todos los programas que se han realizado para completar el trabajo de la asignatura de Aprendizaje por refuerzo para el Master de Inteligencia Artificial de la Universidad Carlos III
+
